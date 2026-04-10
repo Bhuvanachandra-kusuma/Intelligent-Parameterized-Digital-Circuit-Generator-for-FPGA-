@@ -6,5 +6,5 @@ module adder_4_rca(
 );
 
 assign SUM = A + B;
-
+ 
 endmodule
